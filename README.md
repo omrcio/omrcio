@@ -12,7 +12,6 @@
 <div align="center"> 
 <a href = "mailto:marciobarcelospimentel@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/marcio-barcelos/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://instagram.com/zeck.dj" style="border-radius: 30px" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>  
 
 ### Skills:
